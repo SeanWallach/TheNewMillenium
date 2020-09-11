@@ -1,0 +1,18 @@
+{
+  "name": "TheNewMillenium",
+  "version": "1.0.0",
+  "description": "personal blog for Sean",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sean Wallach",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-edge": "^2.0.2",
+    "nodemon": "^2.0.4",
+    "startbootstrap-clean-blog": "^5.0.9"
+  }
+}
